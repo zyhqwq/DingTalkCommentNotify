@@ -1,4 +1,5 @@
 # DingTalkCommentNotify--Typecho插件
+Deepseek生成的，效果很不错
 ## 插件特点
 **时间精准显示**
 - 内置时区设置功能（支持中国/日本/美国/欧洲等时区）
